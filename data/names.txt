@@ -8,3 +8,4 @@ What needs to happen next
 - more formatting control
 - css references
 - read/ write/ save to local storage
+- learn how to use Github

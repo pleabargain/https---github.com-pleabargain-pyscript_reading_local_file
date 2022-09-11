@@ -1,3 +1,4 @@
+# this will render the text into HTML
 ul_element = document.querySelector("#frameworks")
 with open("names.txt") as f:
     for line in f:
